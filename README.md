@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/alexispcooper/P2-17S-alexispcooper/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
@@ -35,3 +36,8 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+=======
+# P2-17S-alexispcooper
+
+<img width="1439" alt="screen shot 2017-02-02 at 7 57 10 pm" src="https://cloud.githubusercontent.com/assets/27031979/25552952/06dc219e-2c5c-11e7-9633-7ea6b6c876d7.png">
+>>>>>>> 0d9de1f303b6cfa639d56da10ca73550434029b8
